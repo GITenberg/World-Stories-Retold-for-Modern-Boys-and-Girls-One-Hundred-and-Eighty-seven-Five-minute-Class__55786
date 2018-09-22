@@ -1,11 +1,16 @@
 _repo: World-Stories-Retold-for-Modern-Boys-and-Girls-One-Hundred-and-Eighty-seven-Five-minute-Class__55786
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 55786-h/images/cover.jpg
 creator:
   author:
     agent_name: Sly, William James
     gutenberg_agent_id: '48507'
     url: http://www.gutenberg.org/2009/agents/48507
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55786#World-Stories-Retold-for-Modern-Boys-and-Girls-One-Hundred-and-Eighty-seven-Five-minute-Class_
 gutenberg_issued: '2017-10-21'
 gutenberg_type: Text
 identifiers:
